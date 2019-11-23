@@ -1,2 +1,2 @@
 
-SGDR Pytorch implementation
+Pytorch implementation
